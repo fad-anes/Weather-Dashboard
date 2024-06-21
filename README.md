@@ -10,3 +10,6 @@ to start the app you just need to
 ```bash
 npm run dev 
 ```
+## REMARK
+
+choose the option that suits you (number of days, unit) then enter the name of the city and simply click anywhere to get the result
